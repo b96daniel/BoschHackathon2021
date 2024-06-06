@@ -1,5 +1,7 @@
 # Like A Bosch 2021 Hackathon - Software Development Challange
 
+Official page of the event: https://hackathon.boschevent.hu/2021/
+
 This project contains our solution for the software development challange.
 
 ## Installation
